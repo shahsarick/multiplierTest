@@ -20,6 +20,7 @@ public class MultiplyMain {
 			MultiplyMethod m = new MultiplyMethod();
 			m.getMult();
 			System.out.println("The product is " + c);
+			System.out.println("hello");
 		}
 	}
 }
